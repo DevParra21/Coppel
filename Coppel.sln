@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coppel", "Coppel\Coppel.csproj", "{16613D9D-CBA4-45E6-8722-38C7865A54AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16613D9D-CBA4-45E6-8722-38C7865A54AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16613D9D-CBA4-45E6-8722-38C7865A54AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16613D9D-CBA4-45E6-8722-38C7865A54AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16613D9D-CBA4-45E6-8722-38C7865A54AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B6902B6-D985-404C-928E-CE739ED1F0C9}
+	EndGlobalSection
+EndGlobal
